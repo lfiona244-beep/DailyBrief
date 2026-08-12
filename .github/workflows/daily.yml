@@ -80,19 +80,14 @@ jobs:
               if [ "$HTTP_CODE" = "404" ]; then
                 echo "↻ Catchup: today's report missing — recovering"
                 catchup_match=true
-              else
-                echo "Catchup check: today's report exists (HTTP $HTTP_CODE) — no action"
               fi
             fi
           fi
           if [ "$hour_match" = "true" ] && [ "$day_match" = "true" ]; then
-            echo "✓ Match — proceeding to build"
             echo "should-run=true" >> "$GITHUB_OUTPUT"
           elif [ "$catchup_match" = "true" ]; then
-            echo "✓ Catchup — proceeding to build"
             echo "should-run=true" >> "$GITHUB_OUTPUT"
           else
-            echo "✗ No match — skipping"
             echo "should-run=false" >> "$GITHUB_OUTPUT"
           fi
 
@@ -125,10 +120,10 @@ jobs:
           fi
       - name: Generate today's report
         env:
-          LLM_BACKEND: zhipu
+          LLM_BACKEND: openai
           LLM_MODEL: glm-4-flash
-          ZHIPU_API_KEY: f336470d5f54477f85cc691a80d68ffc.aufDoyU0Ip9Ba3A4
-          ZHIPU_BASE_URL: https://open.bigmodel.cn/api/paas/v4
+          OPENAI_API_KEY: f336470d5f54477f85cc691a80d68ffc.aufDoyU0Ip9Ba3A4
+          OPENAI_BASE_URL: https://open.bigmodel.cn/api/paas/v4
           REPORT_LOCALE: zh
           REPORT_TZ: Asia/Shanghai
           WEB_MODE: 'true'
