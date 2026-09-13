@@ -1,107 +1,109 @@
 {
-  "hero_headline": "AI技术发展引发担忧，SpaceX在纳斯达克权重提升",
-  "daily_overview": "科技领域，AI技术发展引发安全担忧，SpaceX在纳斯达克权重提升；财经领域，SpaceX即将获得纳斯达克100指数更大的权重，市场对此反应积极；时政方面，特朗普对爱尔兰统一的言论引发关注。",
+  "hero_headline": "AI发展放缓，SpaceX市值提升",
+  "daily_overview": "技术领域，AI模型开发放缓，SpaceX市值获得提升；财经方面，全球债券市场抛售，美国通胀高企；时政新闻中，特朗普呼吁爱尔兰统一，菲律宾渡轮火灾造成重大伤亡。",
   "tech_briefs": [
     {
-      "title": "AI技术发展引发担忧",
-      "url": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "AI技术的快速发展引发了人类对技术控制的担忧，业界领袖呼吁放缓AI发展速度。",
+      "title": "AI模型开发放缓",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "Anthropic老板Dario Amodei呼吁AI发展放缓，担忧AI模型可能对全球造成严重损害。（BBC World报道）",
+      "importance": 9
+    },
+    {
+      "title": "SpaceX市值获得提升",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX在纳斯达克100指数中的权重提升，预计将引发数十亿美元的被动基金购买。（Bloomberg Markets报道）",
       "importance": 8
     },
     {
-      "title": "SpaceX在纳斯达克权重提升",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
-      "source": "Bloomberg Markets",
-      "summary": "SpaceX即将获得纳斯达克100指数更大的权重，市场对此反应积极。",
+      "title": "全球债券市场抛售",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+      "source": "The Economist Finance",
+      "summary": "受能源成本上涨和通胀高企影响，全球债券市场出现抛售现象。（The Economist Finance报道）",
       "importance": 7
-    },
-    {
-      "title": "特朗普对爱尔兰统一的言论引发关注",
-      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "source": "NYT World",
-      "summary": "特朗普对爱尔兰统一的言论引发关注，这是美国首次正式表达对爱尔兰统一的立场。",
-      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "SpaceX即将获得纳斯达克100指数更大的权重",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
-      "source": "Bloomberg Markets",
-      "summary": "SpaceX即将获得纳斯达克100指数更大的权重，市场对此反应积极。",
+      "title": "全球债券市场抛售",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/08/what-is-causing-the-global-bond-sell-off",
+      "source": "The Economist Finance",
+      "summary": "受能源成本上涨和通胀高企影响，全球债券市场出现抛售现象。（The Economist Finance报道）",
       "importance": 7
     },
     {
-      "title": "SpaceX在纳斯达克权重提升",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
-      "source": "Bloomberg Markets",
-      "summary": "SpaceX即将获得纳斯达克100指数更大的权重，市场对此反应积极。",
+      "title": "美国通胀高企",
+      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "根据最新官方报告，美国物价在12个月内上涨了3.4%，通胀高企。（BBC Business报道）",
       "importance": 7
     },
     {
-      "title": "SpaceX在纳斯达克权重提升",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
-      "source": "Bloomberg Markets",
-      "summary": "SpaceX即将获得纳斯达克100指数更大的权重，市场对此反应积极。",
-      "importance": 7
+      "title": "特朗普呼吁爱尔兰统一",
+      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+      "source": "NYT World",
+      "summary": "特朗普呼吁爱尔兰统一，打破惯例。（NYT World报道）",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "特朗普对爱尔兰统一的言论引发关注",
+      "title": "特朗普呼吁爱尔兰统一",
       "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
       "source": "NYT World",
-      "summary": "特朗普对爱尔兰统一的言论引发关注，这是美国首次正式表达对爱尔兰统一的立场。",
-      "importance": 6
+      "summary": "特朗普呼吁爱尔兰统一，打破惯例。（NYT World报道）",
+      "importance": 8
     },
     {
-      "title": "特朗普对爱尔兰统一的言论引发关注",
-      "url": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
-      "source": "NYT World",
-      "summary": "特朗普对爱尔兰统一的言论引发关注，这是美国首次正式表达对爱尔兰统一的立场。",
-      "importance": 6
+      "title": "菲律宾渡轮火灾造成重大伤亡",
+      "url": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "菲律宾渡轮火灾死亡人数升至76人，13人仍失踪。（Al Jazeera报道）",
+      "importance": 7
     }
   ],
-  "editor_note": "AI技术的发展引发全球关注，SpaceX在纳斯达克权重提升，特朗普对爱尔兰统一的言论引发关注。",
+  "editor_note": "AI发展放缓，全球经济面临挑战。",
   "keywords": [
-    "AI技术",
+    "AI",
     "SpaceX",
-    "特朗普",
-    "爱尔兰统一"
+    "债券市场",
+    "通胀",
+    "爱尔兰统一",
+    "菲律宾渡轮火灾"
   ],
   "trading": {
-    "market_overview": "市场整体呈现中性趋势，加密货币市场表现出一定的波动性。S&P 500 ETF 和 Nasdaq 100 ETF 表现相对稳定，均呈现多头排列。比特币和以太坊表现出较强的多头趋势，但需注意其短期内的波动性。中概股方面，阿里巴巴和拼多多表现较弱，处于空头排列。商品外汇方面，WTI 原油期货呈现多头趋势，而美元/人民币则表现出空头趋势。VIX 恐慌指数和 10Y 美债收益率均呈现多头趋势，但需注意其超买状态。",
+    "market_overview": "市场整体呈现中性趋势，加密货币市场虽然总市值有所下降，但比特币和以太坊等主要加密货币仍保持上涨趋势。美股市场方面，部分科技股如Meta和微软显示出上行趋势，而其他如苹果和谷歌母公司Alphabet则处于中性状态。中概股方面，阿里巴巴和拼多多等公司显示出下行趋势，而腾讯控股则处于中性状态。商品外汇方面，WTI原油期货显示出上行趋势，而黄金期货和美元/人民币则处于中性或下行趋势。",
     "watchlist": [
       {
         "symbol": "AAPL",
-        "display_name": "苹果 (AAPL)",
+        "display_name": "苹果",
         "stance": "偏上行",
-        "rationale": "AAPL 当前价格位于 SMA20 和 SMA50 之上，MACD 金叉，RSI 状态正常，呈现多头排列。"
+        "rationale": "苹果当前价格332.27美元，较昨日上涨1.75%，同时MACD指标显示金叉，多头排列。"
       },
       {
-        "symbol": "BTC-USD",
-        "display_name": "比特币 (BTC-USD)",
+        "symbol": "META",
+        "display_name": "Meta",
         "stance": "偏上行",
-        "rationale": "BTC-USD 当前价格位于 SMA50 和 SMA200 之上，MACD 金叉，RSI 状态正常，呈现多头排列。"
-      },
-      {
-        "symbol": "NVDA",
-        "display_name": "英伟达 (NVDA)",
-        "stance": "偏下行",
-        "rationale": "NVDA 当前价格位于 SMA20 和 SMA50 之下，MACD 死叉，RSI 状态正常，呈现多头排列但需警惕。"
-      },
-      {
-        "symbol": "PDD",
-        "display_name": "拼多多 (PDD)",
-        "stance": "偏下行",
-        "rationale": "PDD 当前价格位于 SMA20 和 SMA50 之下，MACD 死叉，RSI 状态正常，呈现空头排列。"
+        "rationale": "Meta当前价格648.03美元，较昨日上涨0.57%，MACD指标显示多头排列，且RSI值为67.2，处于超买状态。"
       },
       {
         "symbol": "CL=F",
-        "display_name": "WTI 原油期货 (CL=F)",
+        "display_name": "WTI 原油期货",
         "stance": "偏上行",
-        "rationale": "CL=F 当前价格位于 SMA20 和 SMA50 之上，MACD 红柱，RSI 状态超买，呈现多头排列。"
+        "rationale": "WTI原油期货当前价格100.05美元，较昨日下跌2.37%，但RSI值为71.5，处于超买状态，多头排列。"
+      },
+      {
+        "symbol": "0700.HK",
+        "display_name": "腾讯控股",
+        "stance": "中性",
+        "rationale": "腾讯控股当前价格428.4港元，较昨日上涨0.66%，但MACD指标显示死叉，空头排列。"
+      },
+      {
+        "symbol": "USDCNY=X",
+        "display_name": "美元 / 人民币",
+        "stance": "偏下行",
+        "rationale": "美元/人民币汇率当前6.7，较昨日下跌0.13%，MACD指标显示死叉，RSI值为14.7，处于超卖状态。"
       }
     ],
     "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考。",
@@ -327,18 +329,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 77259.2,
-        "pct1Day": 0.11066337080489419,
-        "pct5Day": -2.346750399359961,
-        "pct52WeekHigh": -38.7794123951341,
-        "pct52WeekLow": 33.787339929305645,
-        "sma20": 78587.1765625,
-        "sma50": 70908.721796875,
-        "sma200": 70091.0778125,
-        "rsi14": 55.06354402883369,
-        "macd": 1808.92318684388,
-        "macdSignal": 2570.0213976478426,
-        "macdHistogram": -761.0982108039625,
+        "currentPrice": 77261.83,
+        "pct1Day": 0.11407126325868198,
+        "pct5Day": -2.3434261603508832,
+        "pct52WeekHigh": -38.77732836960185,
+        "pct52WeekLow": 33.7918942180378,
+        "sma20": 78587.3078125,
+        "sma50": 70908.774296875,
+        "sma200": 70091.0909375,
+        "rsi14": 55.07196074613584,
+        "macd": 1809.1325885532715,
+        "macdSignal": 2570.063277989721,
+        "macdHistogram": -760.9306894364495,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -359,18 +361,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2525.01,
-        "pct1Day": 0.4086362113908838,
-        "pct5Day": 1.367023935397605,
-        "pct52WeekHigh": -46.991004020627194,
-        "pct52WeekLow": 67.60706580798202,
-        "sma20": 2470.751257324219,
-        "sma50": 2173.9450537109374,
-        "sma200": 2055.6896447753907,
-        "rsi14": 63.825803761438934,
-        "macd": 88.03740914998752,
-        "macdSignal": 104.11769451794933,
-        "macdHistogram": -16.080285367961807,
+        "currentPrice": 2524.65,
+        "pct1Day": 0.3943205813394727,
+        "pct5Day": 1.3525716644692698,
+        "pct52WeekHigh": -46.998561708934396,
+        "pct52WeekLow": 67.58316944967419,
+        "sma20": 2470.733251953125,
+        "sma50": 2173.9378515625,
+        "sma200": 2055.6878442382813,
+        "rsi14": 63.80313711974994,
+        "macd": 88.008682632003,
+        "macdSignal": 104.11194921435242,
+        "macdHistogram": -16.10326658234942,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -386,18 +388,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 101.75,
-        "pct1Day": -0.6311245551002174,
-        "pct5Day": -2.0374608260421017,
-        "pct52WeekHigh": -59.815947164783054,
-        "pct52WeekLow": 68.41921968685777,
-        "sma20": 102.43823204040527,
-        "sma50": 87.42678970336914,
-        "sma200": 83.03692993164063,
-        "rsi14": 57.33316442262796,
-        "macd": 3.9224031322842023,
-        "macdSignal": 5.0748620434482445,
-        "macdHistogram": -1.1524589111640422,
+        "currentPrice": 101.6,
+        "pct1Day": -0.7776142977708368,
+        "pct5Day": -2.1818773457088754,
+        "pct52WeekHigh": -59.87518655471212,
+        "pct52WeekLow": 68.17093582491152,
+        "sma20": 102.43073196411133,
+        "sma50": 87.42378967285157,
+        "sma200": 83.03617992401124,
+        "rsi14": 57.065590801958514,
+        "macd": 3.910437198595858,
+        "macdSignal": 5.072468856710576,
+        "macdHistogram": -1.162031658114718,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -705,13 +707,13 @@
       "timestamp": "2026-09-13T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2658823520440.602,
-      "total24hVolumeUsd": 46338810010.775604,
-      "marketCapChangePct24h": -2.3639172630599514,
-      "btcDominance": 58.224584202505206,
-      "ethDominance": 11.56593608702098,
+      "totalMarketCapUsd": 2659050689970.9595,
+      "total24hVolumeUsd": 45749802521.56719,
+      "marketCapChangePct24h": -2.540184232095812,
+      "btcDominance": 58.23026614210246,
+      "ethDominance": 11.56296135726621,
       "activeCryptocurrencies": 21145
     },
-    "generated_at": "2026-09-13T00:01:01.328Z"
+    "generated_at": "2026-09-13T00:24:12.783Z"
   }
 }
