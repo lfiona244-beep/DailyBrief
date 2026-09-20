@@ -1,113 +1,111 @@
 {
-  "hero_headline": "AI与科技动态",
-  "daily_overview": "今日AI领域持续发展，OpenAI发布澳大利亚青年安全蓝图，DeepMind推出AlphaGenome Atlas；财经方面，特朗普宣布成立‘AI部队’，土耳其逮捕顶级金融高管；时政领域，沙特领导的联盟拦截胡塞导弹，以色列总统赦免射杀受伤巴勒斯坦攻击者的士兵。",
+  "hero_headline": "AI安全审计与经济波动并存",
+  "daily_overview": "科技领域，云flare推出安全审计技能，OpenAI发布澳大利亚青年安全蓝图；财经方面，特朗普宣布成立“AI部队”，土耳其逮捕顶级金融高管；时政领域，伊朗战争持续，法国、波兰等欧洲盟友警告俄罗斯混合攻击。",
   "tech_briefs": [
+    {
+      "title": "云flare推出安全审计技能",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "GitHub Trending",
+      "summary": "云flare推出一款用于多阶段安全审计的编码代理技能，具有独立验证的机器可读发现。",
+      "importance": 8
+    },
     {
       "title": "OpenAI发布澳大利亚青年安全蓝图",
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI News",
-      "summary": "OpenAI推出旨在保护并赋权年轻人的六支柱路线图，以实现更安全的AI体验。",
-      "importance": 8
-    },
-    {
-      "title": "DeepMind推出AlphaGenome Atlas",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "DeepMind Blog",
-      "summary": "AlphaGenome Atlas绘制了人类基因组中所有可能的DNA字母变化的分子效应。",
+      "summary": "OpenAI发布澳大利亚青年安全蓝图，旨在为更安全的AI体验提供保护并赋权年轻人。",
       "importance": 7
     },
     {
-      "title": "特朗普宣布成立‘AI部队’",
-      "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "美国总统特朗普宣布成立一个监督“不良行为”的“沙皇”，以应对AI技术的进步。",
-      "importance": 6
+      "title": "DeepSeek-V4.1-Flash发布",
+      "url": "https://huggingface.co/papers/2609.19969",
+      "source": "HuggingFace Trending Papers",
+      "summary": "DeepSeek推出V4.1-Flash，一款专注于极端推理效率和低成本的旗舰模型。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "特朗普宣布成立‘AI部队’",
+      "title": "特朗普宣布成立“AI部队”",
       "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "美国总统特朗普宣布成立一个监督“不良行为”的“沙皇”，以应对AI技术的进步。",
-      "importance": 6
+      "summary": "美国总统特朗普宣布成立“AI部队”，以监控技术进步中的不良行为。",
+      "importance": 8
     },
     {
       "title": "土耳其逮捕顶级金融高管",
       "url": "https://www.bloomberg.com/news/articles/2026-09-19/turkey-detains-top-finance-executives-in-funds-scheme-ntv-says",
       "source": "Bloomberg Markets",
-      "summary": "土耳其当局逮捕了多名知名金融高管，作为对“庞氏骗局”调查的一部分。",
-      "importance": 5
+      "summary": "土耳其当局逮捕了涉嫌“庞氏骗局”的顶级金融高管。",
+      "importance": 7
     },
     {
-      "title": "特朗普禁止主要美国新闻机构进入白宫",
+      "title": "特朗普禁止美国主要新闻机构进入白宫",
       "url": "https://www.ft.com/content/4cd82226-3d4a-474d-bc3e-de2ed0b1e6f8?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "CNN、MS Now和Politico的记者被拒绝进入白宫，总统加大了对媒体的攻击。",
-      "importance": 4
+      "summary": "特朗普总统禁止CNN、MS Now和Politico等媒体的记者进入白宫。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "沙特领导的联盟拦截胡塞导弹",
-      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "title": "伊朗战争持续",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
       "source": "Al Jazeera",
-      "summary": "这是自也门胡塞与沙特之间的紧张局势升级以来，首次在利雅得拉响警报。",
-      "importance": 7
+      "summary": "伊朗安全首长表示，德黑兰的要求包括结束所有战场的战争和解除美国海军封锁。",
+      "importance": 8
     },
     {
-      "title": "以色列总统赦免射杀受伤巴勒斯坦攻击者的士兵",
-      "url": "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
-      "source": "The Guardian",
-      "summary": "Elor Azaria在2017年被定罪过失杀人，以色列总统已经赦免了他。",
-      "importance": 6
+      "title": "法国、波兰等欧洲盟友警告俄罗斯混合攻击",
+      "url": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
+      "source": "NPR World",
+      "summary": "法国、波兰和其他主要欧洲国家领导人警告俄罗斯混合攻击的升级。",
+      "importance": 7
     }
   ],
-  "editor_note": "AI技术发展迅速，相关法规和伦理问题需引起重视。",
+  "editor_note": "AI技术发展迅速，但安全问题不容忽视；经济波动加剧，金融市场需保持警惕。",
   "keywords": [
-    "AI",
-    "科技",
-    "财经",
-    "时政",
-    "特朗普",
-    "OpenAI",
-    "DeepMind"
+    "AI安全审计",
+    "经济波动",
+    "伊朗战争",
+    "土耳其金融",
+    "欧洲盟友"
   ],
   "trading": {
-    "market_overview": "市场整体呈现中性趋势，加密市场虽然总市值有所下降，但比特币和以太坊等主要加密货币表现强劲，显示出多头排列。美股方面，部分科技股如苹果和微软显示出多头趋势，而其他如特斯拉和Meta则处于中性趋势。中概股方面，阿里巴巴和拼多多显示出空头排列，而京东则处于中性趋势。商品外汇方面，WTI原油期货显示出多头排列，而黄金期货和美元/人民币则处于中性趋势。",
+    "market_overview": "当前市场整体呈现中性偏多趋势。加密市场虽然恐慌贪婪指数显示为贪婪，但总市值有所下降，BTC 和 ETH 等主流加密货币表现强势。美股市场方面，部分科技股如AAPL和NVDA显示出多头排列，而其他如MSFT和GOOGL则显示多头趋势但需注意短期风险。中概股市场，阿里巴巴和BABA显示出空头排列，而京东JD则处于中性状态。商品外汇市场，WTI原油期货表现强势，而美元/人民币则显示空头趋势。",
     "watchlist": [
       {
         "symbol": "AAPL",
         "display_name": "苹果 (AAPL)",
         "stance": "偏上行",
-        "rationale": "苹果的 MACD 指标显示出多头排列，且接近 52 周高，RSI 指标处于正常水平。"
+        "rationale": "AAPL 目前接近 52 周高，且 MACD 指标显示多头排列，表明短期内股价有上涨潜力。"
       },
       {
         "symbol": "NVDA",
         "display_name": "英伟达 (NVDA)",
         "stance": "偏上行",
-        "rationale": "英伟达的 MACD 指标显示出多头排列，且接近 52 周高，RSI 指标处于正常水平。"
+        "rationale": "NVDA 表现出多头排列，MACD 指标显示多头趋势，短期内股价可能继续上涨。"
       },
       {
         "symbol": "BTC-USD",
         "display_name": "比特币 (BTC-USD)",
         "stance": "偏上行",
-        "rationale": "比特币的 MACD 指标显示出多头排列，且接近 52 周高，RSI 指标处于正常水平。"
+        "rationale": "BTC-USD 的 MACD 指标显示多头排列，且 RSI 指标接近超买区域，表明短期内可能继续上涨。"
       },
       {
         "symbol": "ETH-USD",
         "display_name": "以太坊 (ETH-USD)",
         "stance": "偏上行",
-        "rationale": "以太坊的 MACD 指标显示出多头排列，且接近 52 周高，RSI 指标处于正常水平。"
+        "rationale": "ETH-USD 的 MACD 指标显示多头排列，RSI 指标也显示多头趋势，短期内可能继续上涨。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货 (CL=F)",
         "stance": "偏上行",
-        "rationale": "WTI 原油期货的 MACD 指标显示出多头排列，且接近 52 周高，RSI 指标处于正常水平。"
+        "rationale": "WTI 原油期货的 MACD 指标显示多头排列，RSI 指标也显示多头趋势，短期内可能继续上涨。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现。本报告仅供技术指标解读参考，不构成投资建议。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -345,18 +343,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 81330.76,
-        "pct1Day": 0.5306443882782877,
-        "pct5Day": 4.0522519286274585,
-        "pct52WeekHigh": -35.553087301572845,
-        "pct52WeekLow": 40.83793302064705,
-        "sma20": 78329.853125,
-        "sma50": 72843.04234375,
-        "sma200": 70462.64015625,
-        "rsi14": 64.52139884279936,
-        "macd": 1320.2448578324547,
-        "macdSignal": 1480.6243265418316,
-        "macdHistogram": -160.37946870937685,
+        "currentPrice": 81261.74,
+        "pct1Day": 0.4453307249647036,
+        "pct5Day": 3.9639497115067437,
+        "pct52WeekHigh": -35.60777910470422,
+        "pct52WeekLow": 40.718413245631005,
+        "sma20": 78326.40234375,
+        "sma50": 72841.66203125,
+        "sma200": 70462.295078125,
+        "rsi14": 64.37408876032168,
+        "macd": 1314.739337888488,
+        "macdSignal": 1479.5232225518023,
+        "macdHistogram": -164.7838846633142,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -372,18 +370,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2634.32,
-        "pct1Day": 0.8797310565611122,
-        "pct5Day": 4.769037726049624,
-        "pct52WeekHigh": -44.60151160198687,
-        "pct52WeekLow": 74.86292949306467,
-        "sma20": 2482.7772705078123,
-        "sma50": 2257.4832421875,
-        "sma200": 2073.5596728515625,
-        "rsi14": 65.66097416461648,
-        "macd": 68.70731489752916,
-        "macdSignal": 72.96712008513626,
-        "macdHistogram": -4.2598051876071,
+        "currentPrice": 2625.97,
+        "pct1Day": 0.5599727301913765,
+        "pct5Day": 4.436951470388751,
+        "pct52WeekHigh": -44.777108104356905,
+        "pct52WeekLow": 74.30866673786896,
+        "sma20": 2482.359765625,
+        "sma50": 2257.316240234375,
+        "sma200": 2073.5179223632813,
+        "rsi14": 65.2473749295273,
+        "macd": 68.04121024118058,
+        "macdSignal": 72.83389915385513,
+        "macdHistogram": -4.792688912674549,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -399,18 +397,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 111.11,
-        "pct1Day": -1.3225848920002945,
-        "pct5Day": 8.405228672543394,
-        "pct52WeekHigh": -54.05049763877621,
-        "pct52WeekLow": 83.91213267230238,
-        "sma20": 102.65936737060547,
-        "sma50": 91.48464309692383,
-        "sma200": 83.66315464019776,
-        "rsi14": 63.974512033624535,
-        "macd": 3.4925269116168636,
-        "macdSignal": 3.385466801057345,
-        "macdHistogram": 0.10706011055951858,
+        "currentPrice": 110.89,
+        "pct1Day": -1.5179681277464905,
+        "pct5Day": 8.190584173326767,
+        "pct52WeekHigh": -54.14147856326067,
+        "pct52WeekLow": 83.54798300811457,
+        "sma20": 102.64836730957032,
+        "sma50": 91.48024307250977,
+        "sma200": 83.66205463409423,
+        "rsi14": 63.64673078284663,
+        "macd": 3.474976956689318,
+        "macdSignal": 3.3819568100722774,
+        "macdHistogram": 0.09302014661704039,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -715,16 +713,16 @@
       "value": 71,
       "classification": "Greed",
       "classificationCn": "贪婪",
-      "timestamp": "2026-09-19T00:00:00.000Z"
+      "timestamp": "2026-09-20T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2768866317050.335,
-      "total24hVolumeUsd": 80024885569.55383,
-      "marketCapChangePct24h": -3.3147457920397194,
-      "btcDominance": 58.870777361044325,
-      "ethDominance": 11.57994288806512,
+      "totalMarketCapUsd": 2767221462085.8735,
+      "total24hVolumeUsd": 78537689320.00266,
+      "marketCapChangePct24h": -3.072842728471491,
+      "btcDominance": 58.86639305924694,
+      "ethDominance": 11.566930248667058,
       "activeCryptocurrencies": 21324
     },
-    "generated_at": "2026-09-19T23:34:40.149Z"
+    "generated_at": "2026-09-20T01:01:06.278Z"
   }
 }
