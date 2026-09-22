@@ -1,146 +1,147 @@
 {
-  "hero_headline": "AI与金融科技引领发展浪潮",
-  "daily_overview": "科技领域，人工智能和开源项目持续发展，OpenAI和DeepMind等巨头推出新成果；财经方面，地缘政治紧张局势影响能源市场，美国计划中东重建基金；时政领域，全球领导人关注AI和自主武器议题。",
+  "hero_headline": "AI 领域进展迅猛，全球经济及地缘政治波动加剧",
+  "daily_overview": "科技领域，人工智能应用和创新持续发展，深度学习、强化学习等领域取得显著进展。财经方面，全球经济不确定性增加，能源和贸易政策变动频繁。时政领域，国际关系紧张，地缘政治风险上升。",
   "tech_briefs": [
     {
       "title": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "source": "GitHub Trending",
-      "summary": "BuilderIO推出构建智能应用的框架（多家报道）",
+      "summary": "BuilderIO 发布 agentic apps 开发框架，推动人工智能应用发展。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "OpenAI 咨询组聚焦数学与人工智能",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "summary": "OpenAI 与独立咨询组合作，引导新兴人工智能成果的审查与传播。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "OpenAI News",
-      "summary": "OpenAI与独立顾问团合作，指导新兴AI成果的审查和沟通",
+      "title": "Gemini 3.8 Live 与 3.8 Live Extended Thinking 介绍",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind 推出 Gemini 3.8 Live 及扩展思维模型，提升人工智能的智能水平。（多家报道）",
       "importance": 7
     },
     {
-      "title": "Muse connectors, Meta SAM 3.1, Gemini hacks companies",
-      "url": "https://tldr.tech/ai/2026-09-21",
-      "source": "TLDR AI",
-      "summary": "Muse connectors和Meta SAM 3.1等AI技术应用于企业",
+      "title": "LLM 梳理如物理学家：块去除作为 Ising 优化问题",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "summary": "Hugging Face 发布 LLM 梳理新方法，通过 Ising 优化问题提高模型效率。（多家报道）",
       "importance": 6
     },
     {
-      "title": "Pruning LLMs Like a Physicist",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "source": "Hugging Face Blog",
-      "summary": "Hugging Face发布关于LLM剪枝的论文，将其比作物理学中的Ising优化问题",
-      "importance": 7
-    },
-    {
-      "title": "CodeMidas: Scaling Agentic Coding RL Environments",
+      "title": "CodeMidas：从代码本身扩展 Agentic Coding RL 环境",
       "url": "https://huggingface.co/papers/2609.22068",
       "source": "HuggingFace Trending Papers",
-      "summary": "CodeMidas项目通过强化学习训练编码智能体",
-      "importance": 7
+      "summary": "CodeMidas 通过强化学习训练编程智能体，提高编码环境规模。（多家报道）",
+      "importance": 5
     }
   ],
   "finance_briefs": [
     {
-      "title": "Macron and Trump Discuss Energy Strikes",
+      "title": "Macron 和 Trump 讨论基辅和莫斯科暂停能源打击",
       "url": "https://www.bloomberg.com/news/articles/2026-09-21/macron-and-trump-discuss-kyiv-and-moscow-halting-energy-strikes",
       "source": "Bloomberg Markets",
-      "summary": "法国总统马克龙与特朗普讨论乌克兰和俄罗斯暂停能源打击的可能性",
-      "importance": 7
+      "summary": "法国总统马克龙在纽约与特朗普会面，讨论乌克兰和俄罗斯暂停能源攻击的可能性。",
+      "importance": 8
     },
     {
-      "title": "Trump presses Zelenskyy to stop hitting Russian refineries",
+      "title": "特朗普敦促泽连斯基停止打击俄罗斯炼油厂",
       "url": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1",
       "source": "Financial Times",
-      "summary": "美国总统特朗普敦促泽连斯基停止打击俄罗斯炼油厂",
+      "summary": "美国总统特朗普在电话中告诉乌克兰领导人泽连斯基，停止打击俄罗斯炼油厂。",
       "importance": 7
     },
     {
-      "title": "House prices survived the last interest-rate rise",
+      "title": "美国主要机场因施工人员切断电缆而延误航班",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "由于施工人员切断电缆，美国主要机场航班延误。",
+      "importance": 6
+    },
+    {
+      "title": "房价在上次利率上升后幸存。这一次呢？",
       "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
       "source": "The Economist Finance",
-      "summary": "房价在上次利率上升中幸存下来，这次会怎样？",
-      "importance": 7
+      "summary": "支持住房市场的因素在上次借贷成本上升时幸存，但这些因素现在是否还能幸存。",
+      "importance": 5
     },
     {
-      "title": "Vietnam’s Leader Declares US Trade Deal Close",
+      "title": "越南领导人宣布与美国达成贸易协议接近完成",
       "url": "https://www.bloomberg.com/news/videos/2026-09-21/vietnam-s-leader-declares-us-trade-deal-close-video",
       "source": "Bloomberg Markets",
-      "summary": "越南领导人宣布与美国接近达成贸易协议",
-      "importance": 7
-    },
-    {
-      "title": "US news outlets to sue Trump administration over White House ban",
-      "url": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "美国新闻机构计划起诉特朗普政府因白宫禁令",
-      "importance": 7
+      "summary": "越南领导人表示，越南与美国达成贸易协议“非常接近完成”。",
+      "importance": 5
     }
   ],
   "politics_briefs": [
     {
-      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "title": "CNN、MS NOW 和 Politico 对特朗普的白宫禁令提起诉讼",
       "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "CNN、MS NOW和Politico对特朗普的白宫禁令提起诉讼",
+      "summary": "美国主要新闻机构对特朗普的白宫禁令提起诉讼。",
       "importance": 7
     },
     {
-      "title": "Australia news live: Chalmers says ‘monetised misogyny’ online fuelling DV",
+      "title": "澳大利亚新闻实时：Chalmers 表示“货币化的厌女症”正在推动家庭暴力；Bragg 建议利用超级基金保障抵押贷款",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/22/anthony-albanese-new-york-united-nations-intergenerational-report-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "summary": "澳大利亚新闻：Chalmers表示“货币化的仇视女性”在网上推动家庭暴力",
+      "summary": "澳大利亚新闻实时更新，包括家庭暴力和抵押贷款政策的讨论。",
       "importance": 6
     },
     {
-      "title": "At 92, the Bard of Bollywood Is Still Writing About Love",
-      "url": "https://www.nytimes.com/2026/09/21/world/asia/bollywood-india-gulzar.html",
-      "source": "NYT World",
-      "summary": "92岁的宝莱坞诗人Gulzar仍在创作关于爱的诗歌",
-      "importance": 6
+      "title": "电影巨头派拉蒙达成和解，为华纳兄弟合并扫清道路",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-21/paramount-settles-suits-allowing-for-warner-bros-deal-video",
+      "source": "Bloomberg Markets",
+      "summary": "派拉蒙电影公司达成和解，为其与华纳兄弟公司价值 1100 亿美元的合并扫清道路。",
+      "importance": 5
     }
   ],
-  "editor_note": "科技与金融的融合发展正推动产业升级，全球政治局势亦不容忽视。",
+  "editor_note": "技术进步带来新的发展机遇，同时全球经济和地缘政治的不确定性也给未来发展带来挑战。",
   "keywords": [
     "AI",
-    "金融科技",
+    "科技",
+    "财经",
     "地缘政治",
-    "能源市场",
-    "开源项目"
+    "能源",
+    "贸易"
   ],
   "trading": {
-    "market_overview": "市场整体呈现中性偏上行趋势。加密市场表现出强烈的上行趋势，恐慌贪婪指数处于极度贪婪水平，总市值有所增长。美股市场表现出多头排列，但部分股票如Meta和苹果显示出中性趋势。中概股市场表现出下行趋势，阿里巴巴和拼多多的RSI指标显示超卖状态。商品外汇市场方面，WTI原油期货表现出上行趋势，而黄金期货和美元/人民币表现出中性趋势。",
+    "market_overview": "加密市场目前处于极度贪婪状态，恐慌贪婪指数高达78。总市值为2.94T USD，BTC主导率为58.9%，ETH占比11.5%。美股方面，S&P 500 ETF和纳斯达克100 ETF表现出一定的上行趋势，而苹果和微软等科技股表现强劲。中概股方面，阿里巴巴和拼多多等股票表现出下行趋势。商品外汇方面，WTI原油期货呈现上行趋势，而黄金期货则保持中性。美元/人民币汇率显示下行趋势，而VIX恐慌指数则显示下行趋势。",
     "watchlist": [
       {
         "symbol": "AAPL",
         "display_name": "苹果 (AAPL)",
         "stance": "偏上行",
-        "rationale": "苹果的MACD指标显示金叉，且价格接近52周高点，显示多头排列趋势。"
+        "rationale": "苹果的RSI为64.3，接近超买区域，且MACD显示金叉，表明短期内有上行潜力。"
       },
       {
         "symbol": "NVDA",
         "display_name": "英伟达 (NVDA)",
         "stance": "偏上行",
-        "rationale": "英伟达的MACD指标显示金叉，且价格接近52周高点，显示多头排列趋势。"
+        "rationale": "英伟达的MACD显示金叉，且价格接近52周高点，显示出短期内的上行趋势。"
       },
       {
         "symbol": "TSLA",
         "display_name": "特斯拉 (TSLA)",
         "stance": "中性",
-        "rationale": "特斯拉的MACD指标显示金叉，但趋势为中性，RSI指标正常。"
+        "rationale": "特斯拉的MACD显示金叉，但价格接近52周高点，RSI处于正常水平，表明短期走势不明朗。"
       },
       {
-        "symbol": "BTC-USD",
-        "display_name": "比特币 (BTC-USD)",
-        "stance": "偏上行",
-        "rationale": "比特币的MACD指标显示金叉，RSI指标超买，且价格接近52周高点，显示强烈多头排列趋势。"
+        "symbol": "BABA",
+        "display_name": "阿里巴巴 (BABA)",
+        "stance": "偏下行",
+        "rationale": "阿里巴巴的MACD显示死叉，且价格接近52周低点，RSI处于正常水平，显示出短期内的下行趋势。"
       },
       {
-        "symbol": "ETH-USD",
-        "display_name": "以太坊 (ETH-USD)",
-        "stance": "偏上行",
-        "rationale": "以太坊的MACD指标显示金叉，RSI指标超买，且价格接近52周高点，显示强烈多头排列趋势。"
+        "symbol": "PDD",
+        "display_name": "拼多多 (PDD)",
+        "stance": "偏下行",
+        "rationale": "拼多多的MACD显示死叉，且价格接近52周低点，RSI处于正常水平，表明短期内有下行风险。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现。本报告仅供技术指标解读参考，不构成任何投资建议。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -382,18 +383,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 86386.84,
-        "pct1Day": 6.462980011850274,
-        "pct5Day": 13.442516913247548,
-        "pct52WeekHigh": -31.546623494321274,
-        "pct52WeekLow": 49.593388599655945,
-        "sma20": 78903.858984375,
-        "sma50": 73666.7834375,
-        "sma200": 70582.043515625,
-        "rsi14": 73.56728700465143,
-        "macd": 1951.711841229073,
-        "macdSignal": 1568.2432927332611,
-        "macdHistogram": 383.4685484958118,
+        "currentPrice": 86367.52,
+        "pct1Day": 6.439170079992272,
+        "pct5Day": 13.417146041633735,
+        "pct52WeekHigh": -31.56193276172924,
+        "pct52WeekLow": 49.559932759996286,
+        "sma20": 78902.89296875,
+        "sma50": 73666.39703125,
+        "sma200": 70581.9469140625,
+        "rsi14": 73.54125466601299,
+        "macd": 1950.1706197190942,
+        "macdSignal": 1567.9350484312654,
+        "macdHistogram": 382.23557128782886,
         "trend": "bullish",
         "rsiState": "overbought",
         "signals": [
@@ -418,18 +419,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2767.8,
-        "pct1Day": 4.7220036583254865,
-        "pct5Day": 14.555574451264086,
-        "pct52WeekHigh": -41.79449110661547,
-        "pct52WeekLow": 83.7231681234263,
-        "sma20": 2508.966162109375,
-        "sma50": 2291.133251953125,
-        "sma200": 2079.611319580078,
-        "rsi14": 71.85036925103337,
-        "macd": 88.30781057276863,
-        "macdSignal": 76.25782854357647,
-        "macdHistogram": 12.049982029192165,
+        "currentPrice": 2770.41,
+        "pct1Day": 4.820755168386978,
+        "pct5Day": 14.663598892812521,
+        "pct52WeekHigh": -41.73960405617406,
+        "pct52WeekLow": 83.8964167211581,
+        "sma20": 2509.0966552734376,
+        "sma50": 2291.18544921875,
+        "sma200": 2079.624368896484,
+        "rsi14": 71.94956931379139,
+        "macd": 88.51600479463468,
+        "macdSignal": 76.29946738794968,
+        "macdHistogram": 12.216537406685006,
         "trend": "bullish",
         "rsiState": "overbought",
         "signals": [
@@ -454,25 +455,29 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 118.58,
-        "pct1Day": 6.701064702751458,
-        "pct5Day": 20.21265499622327,
-        "pct52WeekHigh": -50.034244534884884,
-        "pct52WeekLow": 96.2766689972245,
-        "sma20": 103.99107093811035,
-        "sma50": 93.17069808959961,
-        "sma200": 83.91361701965332,
-        "rsi14": 69.97794571722602,
-        "macd": 4.622658884955342,
-        "macdSignal": 3.7005220478295717,
-        "macdHistogram": 0.9221368371257705,
+        "currentPrice": 118.86,
+        "pct1Day": 6.953015268755595,
+        "pct5Day": 20.496510143794048,
+        "pct52WeekHigh": -49.916261641224644,
+        "pct52WeekLow": 96.7401322061908,
+        "sma20": 104.0050708770752,
+        "sma50": 93.17629806518555,
+        "sma200": 83.9150170135498,
+        "rsi14": 70.16578188019821,
+        "macd": 4.644994969913498,
+        "macdSignal": 3.7049892648212026,
+        "macdHistogram": 0.940005705092295,
         "trend": "bullish",
-        "rsiState": "normal",
+        "rsiState": "overbought",
         "signals": [
           {
             "type": "macd-bull-cross",
             "label": "MACD 金叉",
             "daysAgo": 2
+          },
+          {
+            "type": "rsi-overbought",
+            "label": "RSI 超买"
           },
           {
             "type": "above-sma50-sma200",
@@ -589,18 +594,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4404,
-        "pct1Day": -0.4723248616918969,
-        "pct5Day": 1.1971805148411405,
-        "pct52WeekHigh": -21.162865633167446,
-        "pct52WeekLow": 18.447594201339395,
-        "sma20": 4478.2599609375,
-        "sma50": 4331.05599609375,
-        "sma200": 4554.267003173828,
-        "rsi14": 48.530624195600794,
-        "macd": -2.6715949015515434,
-        "macdSignal": 15.032572265868174,
-        "macdHistogram": -17.70416716741972,
+        "currentPrice": 4409.9,
+        "pct1Day": -0.3389885121651073,
+        "pct5Day": 1.332753486012241,
+        "pct52WeekHigh": -21.057248218824963,
+        "pct52WeekLow": 18.606277399747174,
+        "sma20": 4478.554956054688,
+        "sma50": 4331.173994140625,
+        "sma200": 4554.296502685547,
+        "rsi14": 49.020813260909776,
+        "macd": -2.200947421138153,
+        "macdSignal": 15.126701761950851,
+        "macdHistogram": -17.327649183089004,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -611,18 +616,18 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "NYM",
-        "currentPrice": 92.28,
-        "pct1Day": -7.9960147634484615,
-        "pct5Day": -8.985106464630805,
-        "pct52WeekHigh": -22.765316370940745,
-        "pct52WeekLow": 67.84285194616226,
-        "sma20": 93.1025016784668,
-        "sma50": 86.81680038452149,
-        "sma200": 80.84705001831054,
-        "rsi14": 49.38988821383156,
-        "macd": 4.276276069686375,
-        "macdSignal": 4.327973282349535,
-        "macdHistogram": -0.05169721266315985,
+        "currentPrice": 92.23,
+        "pct1Day": -8.045865210585731,
+        "pct5Day": -9.034420992987634,
+        "pct52WeekHigh": -22.80716437897556,
+        "pct52WeekLow": 67.75190978537651,
+        "sma20": 93.10000190734863,
+        "sma50": 86.81580047607422,
+        "sma200": 80.84680004119873,
+        "rsi14": 49.32052325030713,
+        "macd": 4.272287830865366,
+        "macdSignal": 4.327175634585333,
+        "macdHistogram": -0.05488780371996693,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -746,18 +751,18 @@
         "group": "macro",
         "currency": "USD",
         "exchangeName": "NYB",
-        "currentPrice": 100.42,
-        "pct1Day": 0.19955974542091864,
-        "pct5Day": 0.9652130749689675,
-        "pct52WeekHigh": -1.3555992141453788,
-        "pct52WeekLow": 5.096807953950816,
-        "sma20": 99.44349937438965,
-        "sma50": 99.93960006713867,
-        "sma200": 99.15770008087158,
-        "rsi14": 62.884326614172195,
-        "macd": 0.1115422216292501,
-        "macdSignal": -0.07414259581848096,
-        "macdHistogram": 0.18568481744773105,
+        "currentPrice": 100.392,
+        "pct1Day": 0.17162121053870028,
+        "pct5Day": 0.9370610537968931,
+        "pct52WeekHigh": -1.38310412573674,
+        "pct52WeekLow": 5.067503924646781,
+        "sma20": 99.44209938049316,
+        "sma50": 99.93904006958007,
+        "sma200": 99.15756008148193,
+        "rsi14": 62.551343152393365,
+        "macd": 0.10930861313343598,
+        "macdSignal": -0.07458931751764378,
+        "macdHistogram": 0.18389793065107976,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
@@ -779,13 +784,13 @@
       "timestamp": "2026-09-22T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2943868268256.923,
-      "total24hVolumeUsd": 160558733635.63132,
-      "marketCapChangePct24h": 2.533726291923335,
-      "btcDominance": 58.913612548382886,
-      "ethDominance": 11.475016211759339,
-      "activeCryptocurrencies": 21358
+      "totalMarketCapUsd": 2942019889494.8135,
+      "total24hVolumeUsd": 159019281231.65952,
+      "marketCapChangePct24h": 2.4644132210617027,
+      "btcDominance": 58.86567948192434,
+      "ethDominance": 11.479476051002727,
+      "activeCryptocurrencies": 21359
     },
-    "generated_at": "2026-09-22T00:04:45.150Z"
+    "generated_at": "2026-09-22T00:21:53.950Z"
   }
 }
