@@ -6,80 +6,80 @@
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
       "excerpt": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "meta": "TypeScript · ★ 103,281 · 🍴 22,648 · 📈 25,585 stars today",
+      "meta": "TypeScript · ★ 103,896 · 🍴 22,786 · 📈 25,599 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "rea是一个逆向工程工具，可对应用行为到原生二进制文件进行逆向分析，适用于软件安全研究和逆向工程师。"
+      "summary": "利用代理逆向工程应用行为至原生二进制文件，适用于需要逆向分析各类软件行为的技术人员。"
     },
     {
       "sourceId": "github-trending",
       "title": "boykopovar/AnyPS5",
       "url": "https://github.com/boykopovar/AnyPS5",
       "excerpt": "Tool for automatic PS5 executables porting to Linux and Windows",
-      "meta": "C++ · ★ 30,037 · 🍴 2,581 · 📈 3,977 stars today",
+      "meta": "C++ · ★ 30,085 · 🍴 2,583 · 📈 3,952 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AnyPS5是一个用于将PS5可执行文件自动移植到Linux和Windows的工具，适用于游戏开发者和系统兼容性研究者。"
+      "summary": "自动将PS5可执行文件移植到Linux和Windows系统的工具，适合需要跨平台运行PS5游戏开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "storytold/artcraft",
       "url": "https://github.com/storytold/artcraft",
       "excerpt": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "meta": "Rust · ★ 17,799 · 🍴 2,914 · 📈 2,956 stars today",
+      "meta": "Rust · ★ 17,858 · 🍴 2,922 · 📈 2,957 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ArtCraft是一个专为艺术家、设计师和电影制作人设计的创作引擎，用于制作视觉效果和动画。"
+      "summary": "专为艺术家、设计师和电影制作者设计的意图式构建引擎，支持多种艺术创作。"
     },
     {
       "sourceId": "github-trending",
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "excerpt": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "meta": "HTML · ★ 50,299 · 🍴 3,196 · 📈 1,083 stars today",
+      "meta": "HTML · ★ 50,323 · 🍴 3,196 · 📈 1,083 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "diagram-design是一个用于编辑图表设计的工具，支持多种图表类型，适用于文档编写和代码注释。"
+      "summary": "Claude Code、Codex等编程辅助工具的编辑式图表设计工具，提供44种图表类型，适合需要高质量图表的设计师。"
     },
     {
       "sourceId": "github-trending",
       "title": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "excerpt": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "meta": "JavaScript · ★ 51,629 · 🍴 10,370 · 📈 872 stars today",
+      "meta": "JavaScript · ★ 51,663 · 🍴 10,374 · 📈 886 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "gods-eye-view是一个浏览器中的间谍卫星模拟器，提供真实数据，在逼真的3D球面上展示开源空间智能，适用于地理信息系统开发。"
+      "summary": "浏览器中的间谍卫星模拟器，提供真实数据，适合进行空间情报分析，适合地理信息系统开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "excerpt": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "meta": "Python · ★ 104,471 · 🍴 32,112 · 📈 314 stars today",
+      "meta": "Python · ★ 104,479 · 🍴 32,116 · 📈 315 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PyTorch是一个用于Python的强大GPU加速的张量库和动态神经网络库，适用于机器学习和深度学习研究。"
+      "summary": "支持GPU加速的Python张量和动态神经网络库，适用于需要进行深度学习研究的学者和工程师。"
     },
     {
       "sourceId": "github-trending",
       "title": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "excerpt": "AirLLM 70B inference with single 4GB GPU",
-      "meta": "Jupyter Notebook · ★ 36,457 · 🍴 3,817 · 📈 541 stars today",
+      "meta": "Jupyter Notebook · ★ 36,471 · 🍴 3,818 · 📈 548 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "airllm是一个支持70B推理的模型，可在单个4GB GPU上运行，适用于大规模语言模型研究和应用。"
+      "summary": "使用单个4GB GPU进行70B推理的AirLLM模型，适用于需要高性能推理任务的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "excerpt": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "meta": "Assembly · ★ 74,233 · 🍴 8,099 · 📈 581 stars today",
+      "meta": "Assembly · ★ 74,242 · 🍴 8,100 · 📈 466 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Apollo-11项目提供了阿波罗11号指令和登月模块的原版AGC源代码，适用于历史研究和技术爱好者。"
+      "summary": "阿波罗11号指令和登月模块的原版AGC（制导计算机）源代码，适合对太空历史感兴趣的程序员和研究者。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -105,6 +105,15 @@
       "url": "https://www.v2ex.com/t/1246645",
       "excerpt": "66 回复 · Python 节点",
       "publishedAt": "2026-10-06T08:00:57.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "Google Play 开通 Claude Pro，搭配大陆护照 KYC，安全上车中...",
+      "url": "https://www.v2ex.com/t/1247761",
+      "excerpt": "33 回复 · 程序员 节点",
+      "publishedAt": "2026-10-11T01:06:47.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -168,24 +177,6 @@
       "url": "https://www.v2ex.com/t/1221723",
       "excerpt": "14 回复 · Rust 节点",
       "publishedAt": "2026-06-21T03:58:46.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "llm 时代，架构师和普通大头兵的在专业上的区别在哪",
-      "url": "https://www.v2ex.com/t/1247878",
-      "excerpt": "13 回复 · 程序员 节点",
-      "publishedAt": "2026-10-11T13:26:13.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "gpt 相比其他模型废话多好多，你们是怎么优化的",
-      "url": "https://www.v2ex.com/t/1247908",
-      "excerpt": "12 回复 · 程序员 节点",
-      "publishedAt": "2026-10-11T15:48:57.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -307,6 +298,15 @@
       "source": "V2EX"
     },
     {
+      "sourceId": "v2ex-hot",
+      "title": "这个设定已经在 2022 年 2 月 10 日移除：降权账号不触发提醒",
+      "url": "https://www.v2ex.com/t/833032",
+      "excerpt": "2 回复 · Dev 节点",
+      "publishedAt": "2022-02-10T10:56:17.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
       "sourceId": "openai-news",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -314,7 +314,7 @@
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Sophos利用OpenAI的Daybreak将威胁调查时间缩短96%，并自动化52%的MDR案例。"
+      "summary": "Sophos利用OpenAI的Daybreak将网络安全威胁调查时间缩短96%，并自动化52%的MDR案例。"
     },
     {
       "sourceId": "openai-news",
@@ -324,7 +324,7 @@
       "publishedAt": "2026-10-09T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Asana使用GPT-6 Astra使浏览器代理成本降低76倍，速度提高5倍。"
+      "summary": "Asana通过使用GPT-6 Astra使浏览器代理模型成本降低76倍，速度提高5倍。"
     },
     {
       "sourceId": "openai-news",
@@ -334,7 +334,7 @@
       "publishedAt": "2026-10-08T16:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Oracle利用ChatGPT和Codex将专业知识转化为快速、可重复的工作流程。"
+      "summary": "Oracle通过ChatGPT和Codex将专业知识转化为快速可重复的工作流程。"
     },
     {
       "sourceId": "openai-news",
@@ -344,7 +344,7 @@
       "publishedAt": "2026-10-08T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Pollo AI使用OpenAI将创意想法转化为详细图像和视频广告。"
+      "summary": "Pollo AI利用OpenAI帮助创作者将创意转变为详细图像和电影式视频广告。"
     },
     {
       "sourceId": "openai-news",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-10-08T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "LegalOn将Codex成本削减了一半，同时保持开发速度。"
+      "summary": "LegalOn将Codex的日成本降低了65%，同时保持了开发速度。"
     },
     {
       "sourceId": "openai-news",
@@ -859,7 +859,7 @@
       "publishedAt": "2026-10-09T15:20:29.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face Blog讨论GPU集群的有效调度。"
+      "summary": "Hugging Face Blog介绍了一种对GPU集群进行高效调度的方法。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1131,7 +1131,7 @@
       "meta": "👍 74",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出MiMo-V2.6系列，通过扩展强化学习计算来提升模型智能，推动多模态基础模型的自改进。"
+      "summary": "提出MiMo-V2.6系列，通过扩展强化学习计算，推动模型智能发展。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1142,7 +1142,7 @@
       "meta": "👍 52",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "构建了多智能体自中心世界模型，通过细粒度的具身交互来模拟真实环境中的多智能体行为。"
+      "summary": "构建多智能体自主体世界模型，实现细粒度具身交互。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1153,7 +1153,7 @@
       "meta": "👍 42",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "探讨大型语言模型的基础概念，涵盖预训练、生成模型、提示工程等多个关键领域。"
+      "summary": "探讨大型语言模型的基础概念，涵盖预训练、生成模型等关键领域。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1164,7 +1164,7 @@
       "meta": "👍 39",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究语言模型中的不确定性，探讨在何种情况下以及为什么会出现不确定性。"
+      "summary": "研究语言模型中的不确定性，揭示不确定性出现的原因和时机。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1175,7 +1175,7 @@
       "meta": "👍 38",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "引入REMORY，通过软记忆标记序列补充文本摘要，支持长时序决策。"
+      "summary": "REMORY网络通过软记忆标记补充文本摘要，支持长期决策。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1186,7 +1186,7 @@
       "meta": "👍 35",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Memento 3，通过反思规则书实现基于模型的递归自我改进。"
+      "summary": "Memento 3通过反思规则书实现基于模型的递归自我改进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1197,7 +1197,7 @@
       "meta": "👍 34",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出TestPrism，重新思考测试评估，超越单一参考解决方案。"
+      "summary": "TestPrism重新思考测试评估，超越单一参考解决方案。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1208,7 +1208,7 @@
       "meta": "👍 29",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出ReSPO，用于解决离策略学习中的梯度饥饿问题。"
+      "summary": "ReSPO优化离策略学习中的梯度饥饿问题。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1219,7 +1219,7 @@
       "meta": "👍 24",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出OneSearch-VL，一个统一的跨模态深度研究代理，用于图像和视频。"
+      "summary": "OneSearch-VL实现统一的多模态深度研究代理，适用于图像和视频。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1230,7 +1230,7 @@
       "meta": "👍 19",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出具身图灵机，通过状态保持代码实现机器递归自我改进。"
+      "summary": "提出具身图灵机，实现机器人递归自我改进。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1241,7 +1241,7 @@
       "meta": "👍 17",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出SparseEngine，一种稀疏优先推理引擎，以降低长上下文LLM的推理成本。"
+      "summary": "SparseEngine提供稀疏优先推理引擎，降低长上下文LLM的成本。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1252,7 +1252,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出OmniCapBench，一个用于细粒度音频-视觉字幕的深度结构评估框架。"
+      "summary": "OmniCapBench为细粒度音频-视觉字幕提供深度结构评估框架。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1263,7 +1263,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出Opera，一个用于长时程编码代理的口头批评框架。"
+      "summary": "Opera框架为长期编码智能体提供及时的反馈和纠正。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1274,7 +1274,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "研究LLM对序列结构的理解能力，探讨其在行为模拟中的重要性。"
+      "summary": "研究LLM是否理解序列结构，对推理和生成进行控制实验。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1295,7 +1295,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出MIRA，一个音乐意图细化代理，用于对齐文本到音乐生成与用户意图。"
+      "summary": "MIRA代理通过音乐意图细化，使文本到音乐生成与用户意图对齐。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1306,7 +1306,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "探讨AI代理在开放世界环境中进行开放式科学发现的能力。"
+      "summary": "研究AI在开放世界环境中进行开放式科学发现的能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1317,7 +1317,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "评估LLM代理在黑盒优化中的表现，提出Agentic BBO基准。"
+      "summary": "评估LLM在黑盒优化中的表现，提供新的BBO方法。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1328,7 +1328,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "评估LLM代理在知识冲突下的认知谦卑。"
+      "summary": "评估LLM在知识冲突下的认知谦卑。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1339,7 +1339,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出从视觉-语言模型中蒸馏路由3D特权，以增强空间推理能力。"
+      "summary": "提取3D信息以增强视觉语言模型的空间推理能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1449,7 +1449,7 @@
       "publishedAt": "2026-10-09T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "TLDR AI报道GPT-6.1 Ultrafast、Gemini universal agent和speculative decoding。"
+      "summary": "TLDR AI介绍了GPT-6.1 Ultrafast、Gemini universal agent和speculative decoding。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1900,7 +1900,7 @@
       "publishedAt": "2026-10-10T22:07:17.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space将举办纽约订阅者聚会，时间为明天和周二。"
+      "summary": "Latent Space将举办明后天的新 York Subscribers Meetups活动。"
     },
     {
       "sourceId": "latent-space",
@@ -1910,7 +1910,7 @@
       "publishedAt": "2026-10-10T14:04:11.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Standard Bots分享其AI堆栈的经验，通过演示和实际部署中的校正来学习工厂任务。"
+      "summary": "Standard Bots的AI技术通过演示学习和实际部署中的校正来提高工厂任务的执行效率。"
     },
     {
       "sourceId": "latent-space",
@@ -1920,7 +1920,7 @@
       "publishedAt": "2026-10-10T06:45:57.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "TypeSafe/Jev在推出3周后达到超过1亿美元的收入和75亿美元的估值。"
+      "summary": "TypeSafe/Jev在启动3周后实现超过1000万美元的年收入，估值达到75亿美元。"
     },
     {
       "sourceId": "latent-space",
@@ -1930,7 +1930,7 @@
       "publishedAt": "2026-10-10T00:31:26.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Google DeepMind的Pushmeet Kohli和Biohub的Sal Candido探讨构建真正理解生物学的AI所需。"
+      "summary": "Google DeepMind的Pushmeet Kohli和Biohub的Sal Candido探讨了构建真正理解生物学的AI所需的要素。"
     },
     {
       "sourceId": "latent-space",
@@ -1940,7 +1940,7 @@
       "publishedAt": "2026-10-08T23:29:43.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Latent Space指出今天没有发生太多事情。"
+      "summary": "Latent Space表示今天没有太多新闻发生。"
     },
     {
       "sourceId": "latent-space",
@@ -1950,7 +1950,7 @@
       "publishedAt": "2026-10-08T16:27:54.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Periodic Labs的Liam Fedus和Ekin Dogus Cubuk探讨从半导体到超导体的合成超级智能。"
+      "summary": "Periodic Labs的Liam Fedus和Ekin Dogus Cubuk探讨了从半导体到超导体的合成超级智能。"
     },
     {
       "sourceId": "latent-space",
@@ -2086,7 +2086,7 @@
       "publishedAt": "2026-10-09T09:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review AI指出，人们过于依赖AI拒绝请求的能力。"
+      "summary": "MIT Tech Review AI指出，我们对AI说“不”的能力过于信任。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2096,7 +2096,7 @@
       "publishedAt": "2026-10-09T00:08:24.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "MIT Tech Review AI举办关于AI设计病毒创造者的圆桌讨论。"
+      "summary": "MIT Tech Review AI将讨论AI设计病毒的开发者Samuel King。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2179,7 +2179,7 @@
       "category": "tech",
       "meta": "@satyanadella · 9.6M 粉丝 · 448.2K 阅 · 1.3K 赞 · 183 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Satyanadella 探讨超级智能时代模型作为内部风险的问题，分析传统软件系统与传统经济系统之间的差异。"
+      "summary": "纳德拉探讨超智能时代模型作为内部风险，强调传统软件系统追踪行为至特定代码路径的能力在AI时代的重要性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2190,17 +2190,44 @@
       "category": "tech",
       "meta": "@sermakarevich · 1.0K 粉丝 · 30.6K 阅 · 504 赞 · 80 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Sermakarevich 分享了针对工程师的文章，介绍如何评估基于大型语言模型的AI代理的工作效果和一致性。"
+      "summary": "工程师如何评估基于大语言模型的AI代理，确保其能完成任务并重复执行，文章为LLM构建的代理系统提供评估指南。"
     },
     {
       "sourceId": "bloomberg-markets",
-      "title": "US Stock Futures Advance, Oil Erases Early Gains: Markets Wrap",
+      "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
+      "excerpt": "Bond markets are starting to do some of the lifting for central banks around the world by pushing up borrowing costs themselves, potentially reducing the number of benchmark interest-rate hikes needed to get inflation under control.",
+      "publishedAt": "2026-10-11T19:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "US Stock Futures Gain as Oil Erases Early Gains: Markets Wrap",
       "url": "https://www.bloomberg.com/news/articles/2026-10-11/oil-rises-on-mideast-attacks-dollar-edges-higher-markets-wrap",
-      "excerpt": "US equity-index futures extended their gains after oil reversed an early advance that was triggered by Houthi attacks on Saudi Arabia.",
+      "excerpt": "US equity-index futures advanced after crude oil declined, erasing an earlier gain triggered by Houthi attacks on Saudi Arabia.",
       "publishedAt": "2026-10-11T22:09:49.000Z",
       "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Oct. 12",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12",
+      "excerpt": "Oil dropped as traders weighed President Donald Trump’s claim of an “energy ceasefire” between Russia and Ukraine, even as hostilities escalated across the Middle East.",
+      "publishedAt": "2026-10-11T22:08:45.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Wrightson’s Crandall Ends Weekly Market Missives After 44 Years",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/wrightson-s-crandall-ends-weekly-market-missives-after-44-years",
+      "excerpt": "Lou Crandall, the Wrightson ICAP chief economist whose dispatches on Treasury financing and Federal Reserve operations became required reading across trading desks for nearly half a century, announced he’s ending his weekly commentary.",
+      "publishedAt": "2026-10-11T23:32:41.000Z",
+      "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国股票期货在油价逆转早先因也门胡塞武装对沙特阿拉伯的袭击而上涨后继续上涨。"
+      "summary": "Wrightson ICAP首席经济学家Crandall宣布结束其近半个世纪的每周市场评论。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2210,7 +2237,7 @@
       "publishedAt": "2026-10-11T23:15:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "新西兰执政党国家党表示，由于国家的债务负担和预算赤字，现在不是减税的时候。"
+      "summary": "新西兰国家党表示，由于国家债务负担和预算赤字，现在不是减税的时候。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2220,7 +2247,7 @@
       "publishedAt": "2026-10-11T23:01:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "英国财政大臣约翰·海利必须找到350亿英镑（460亿美元）以满足工党政府的支出雄心。"
+      "summary": "英国财政大臣Healey必须找到350亿英镑（460亿美元）来满足工党政府的支出计划，财政研究所警告说。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2228,24 +2255,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-10-11/saudi-arabia-s-main-riyadh-airport-comes-under-further-attack",
       "excerpt": "Saudi Arabia’s main airport came under renewed attack from Houthi rebels, a day after a strike on the facility killed 12 people and heaped pressure on the Middle East’s biggest economy as it prepares to host major events that seek to boost foreign investment.",
       "publishedAt": "2026-10-11T14:47:50.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Latest Oil Market News and Analysis for Oct. 12",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/latest-oil-market-news-and-analysis-for-oct-12",
-      "excerpt": "Oil edged higher as renewed strikes on Saudi Arabia’s main airport and a fresh tanker attack near the Strait of Hormuz raised the prospect that intensifying hostilities could exacerbate supply risks.",
-      "publishedAt": "2026-10-11T22:08:45.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/bond-selloff-may-mean-fewer-rate-hikes-from-global-central-banks",
-      "excerpt": "Bond markets are starting to do some of the lifting for central banks around the world by pushing up borrowing costs themselves, potentially reducing the number of benchmark interest-rate hikes needed to get inflation under control.",
-      "publishedAt": "2026-10-11T19:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2363,15 +2372,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-10-11/by-the-way-headlines-you-may-have-missed-video",
       "excerpt": "$50,000 summer internships at elite financial firms, more than $500 million in special bonuses for Goldman Sachs executives, an unusual method of protecting books from pests and growing safety concerns surrounding teenagers riding high-speed electric bicycles. Join Lisa Mateo, David Gura and Christi",
       "publishedAt": "2026-10-11T13:33:51.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Prediction Markets’ NFL Boom Tests Sports Betting Rules",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-11/prediction-markets-nfl-boom-tests-sports-betting-rules",
-      "excerpt": "Prediction markets built their business by letting users trade on everything from Federal Reserve decisions to pop culture. This year’s football season is showing just how much their growth hinges on something more familiar to bettors: sports.",
-      "publishedAt": "2026-10-11T13:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2563,7 +2563,7 @@
       "publishedAt": "2026-10-11T23:01:03.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "由于对预算增税的担忧，英国首相和财政大臣将与首席执行官和游说团体会面。"
+      "summary": "英国首相和财政大臣将与企业高管和游说团体会面，以解决对经济计划细节不足的投诉。"
     },
     {
       "sourceId": "ft-companies",
@@ -2573,7 +2573,7 @@
       "publishedAt": "2026-10-11T23:01:03.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "首相承诺取消非竞争条款获得科技集团支持，但对冲基金和银行表示这将损害竞争力。"
+      "summary": "首相承诺废除竞业禁止条款，科技集团支持，但对冲基金和银行表示这会损害竞争力。"
     },
     {
       "sourceId": "ft-companies",
@@ -2583,7 +2583,7 @@
       "publishedAt": "2026-10-11T23:01:03.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "自动登记制度适用于养老金——一个类似的计划可以汇集晚年疾病和失能带来的高额成本风险。"
+      "summary": "自动注册养老金计划有效，类似的计划可以分担晚年疾病和残疾带来的重成本风险。"
     },
     {
       "sourceId": "ft-companies",
@@ -2801,7 +2801,7 @@
       "publishedAt": "2026-10-11T23:18:45.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "特朗普计划从俄罗斯进口柴油的计划受到共和党和民主党议员的批评，该计划在中期选举前几周宣布。"
+      "summary": "特朗普计划从俄罗斯进口柴油，遭到共和党和民主党议员批评。"
     },
     {
       "sourceId": "bbc-business",
@@ -2811,7 +2811,7 @@
       "publishedAt": "2026-10-11T23:19:07.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "越来越多的人无法按时偿还信用卡，以下为获取债务咨询的最佳方式。"
+      "summary": "越来越多的人无法按时偿还信用卡，这里提供最佳债务咨询方法。"
     },
     {
       "sourceId": "bbc-business",
@@ -2821,7 +2821,7 @@
       "publishedAt": "2026-10-11T23:19:49.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "据公民咨询局报告，每十起诈骗案中就有一起涉及欺诈者收费未完成或质量差的工作。"
+      "summary": "每十起向公民咨询报告的诈骗案中，就有一起涉及欺诈者收费未完成或质量差的工程。"
     },
     {
       "sourceId": "bbc-business",
@@ -2831,7 +2831,7 @@
       "publishedAt": "2026-10-11T23:07:35.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "微软总裁布拉德·史密斯呼吁全球制定人工智能规则，并表示英国处于领导这一领域的最佳位置。"
+      "summary": "微软总裁Smith呼吁全球制定AI规则，并表示英国处于领导地位的有利位置。"
     },
     {
       "sourceId": "bbc-business",
@@ -3012,7 +3012,7 @@
       "publishedAt": "2026-10-11T23:19:07.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "越来越多的人无法按时偿还信用卡，以下为获取债务咨询的最佳方式。"
+      "summary": "越来越多的人无法按时偿还信用卡，这里提供最佳债务咨询方法。"
     },
     {
       "sourceId": "bbc-business",
@@ -3337,7 +3337,7 @@
       "publishedAt": "2026-10-11T21:36:40.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "乌克兰总统泽连斯基表示，基辅将支持特朗普提出的“能源停火”声明，但俄罗斯尚未发表评论。"
+      "summary": "乌克兰总统泽连斯基表示，基辅将支持此类休战，但莫斯科尚未表态。"
     },
     {
       "sourceId": "bbc-world",
@@ -3347,7 +3347,7 @@
       "publishedAt": "2026-10-11T22:45:58.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "沙特首都利雅得机场再次遭到胡塞武装导弹袭击，造成一人死亡，11人受伤。"
+      "summary": "沙特首都利雅得机场在两天内第二次遭到胡塞武装袭击，造成一人死亡，11人受伤。"
     },
     {
       "sourceId": "bbc-world",
@@ -3365,8 +3365,7 @@
       "excerpt": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
       "publishedAt": "2026-10-11T21:12:44.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "人权组织表示，在埃及-苏丹边境的打击中，数十名金矿勘探者被杀。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3703,13 +3702,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Australian politics live: Ryan ‘not bothered’ by possible Frydenberg return; Lambie accuses Labor of ‘financial coercion’ over FoI",
+      "title": "Australian politics live: Taylor rejects Frydenberg’s GST idea but welcomes possible political tilt; One Nation to preference Liberals in Victoria poll",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
       "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary ",
-      "publishedAt": "2026-10-11T23:39:40.000Z",
+      "publishedAt": "2026-10-11T23:59:03.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚工党助理财长丹尼尔·穆利诺表示，工党不会削弱对可自由支配信托的30%税收提案。"
+      "summary": "澳大利亚工党助理财长丹尼尔·穆利诺表示，工党不会稀释对特别信托的30%税收提案。"
     },
     {
       "sourceId": "guardian-world",
@@ -3719,7 +3718,7 @@
       "publishedAt": "2026-10-11T22:39:10.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "一名13岁男孩在悉尼西部刺死一名30岁男子后被控谋杀。"
+      "summary": "一名13岁男孩在悉尼西部被控谋杀，另有一名16岁男孩因涉嫌刺杀一名30岁男子而被起诉。"
     },
     {
       "sourceId": "guardian-world",
@@ -3801,7 +3800,7 @@
       "publishedAt": "2026-10-11T22:28:50.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "沙特当局表示，在利雅得机场的致命胡塞武装导弹袭击后，机场再次遭到不明物体的袭击，造成一人死亡，11人受伤。"
+      "summary": "沙特当局称，在致命的胡塞武装导弹袭击后，利雅得机场再次遭袭。"
     },
     {
       "sourceId": "guardian-world",
@@ -4118,7 +4117,7 @@
       "publishedAt": "2026-10-11T21:16:36.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "随着霍尔木兹海峡对船只的袭击持续增加，海员工会官员表示，一些船员被提供高额报酬以穿越海峡。"
+      "summary": "由于霍尔木兹海峡的袭击持续增加，海员联盟官员表示，一些船员被提供大额赏金以穿越海峡。"
     },
     {
       "sourceId": "npr-world",
@@ -4128,7 +4127,7 @@
       "publishedAt": "2026-10-11T21:16:35.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "新的播客《我们是简·多伊》揭露了加利福尼亚中央女子监狱中普遍存在的性虐待事件。"
+      "summary": "Madi Bolanos和Anna Sussman的新播客《我们都是简·多伊》调查了加利福尼亚州中央女子监狱普遍的性虐待。"
     },
     {
       "sourceId": "npr-world",
@@ -4138,7 +4137,7 @@
       "publishedAt": "2026-10-11T21:16:10.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "乌克兰议员奥列克桑德·梅热霍克称美国与俄罗斯达成的柴油交易是对乌克兰的背叛。"
+      "summary": "乌克兰议员奥列格·梅热霍科称，美国与俄罗斯柴油交易是背叛。"
     },
     {
       "sourceId": "npr-world",
@@ -4475,13 +4474,33 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
+      "url": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
+      "excerpt": "Felipe VI’s first visit to Ceuta and Melilla as king brings Spain’s territorial dispute with Morocco back into focus.",
+      "publishedAt": "2026-10-12T00:14:46.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "西班牙国王费利佩六世访问休达和梅利利亚，引发西班牙与摩洛哥领土争端。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
+      "excerpt": "Iran says US has accepted some of its peace terms but calls the reply 'inadequate' as the Riyadh airport is hit again.",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "伊朗称美国接受其部分和平条款，但认为回应‘不足’，因为利雅得机场再次遭袭。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
       "excerpt": "Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport.",
       "publishedAt": "2026-10-11T23:20:46.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "沙特当局称，在利雅得机场的第二次胡塞武装袭击中，一名巴基斯坦国民被杀，多人受伤。"
+      "summary": "沙特当局称，在利雅得机场第二次胡塞武装袭击中，一名巴基斯坦国民死亡，多人受伤。"
     },
     {
       "sourceId": "aljazeera",
@@ -4491,7 +4510,7 @@
       "publishedAt": "2026-10-11T23:17:05.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国国土安全部长认为直播处决没有风险，此决定引发批评和暴力可能增加的警告。"
+      "summary": "美国国土安全部长表示，直播处决尼达尔·哈桑没有风险。"
     },
     {
       "sourceId": "aljazeera",
@@ -4501,7 +4520,7 @@
       "publishedAt": "2026-10-11T22:49:23.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "CCTV录像显示，俄罗斯在乌克兰哈尔科夫市的一次空袭击中了一家杂货店。"
+      "summary": "CCTV录像显示，俄罗斯空袭乌克兰一家杂货店。"
     },
     {
       "sourceId": "aljazeera",
@@ -4511,7 +4530,7 @@
       "publishedAt": "2026-10-11T22:24:07.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "阿尔阿赫巴尔电视台发布的CCTV录像显示，周六胡塞武装对利雅得国际机场的袭击瞬间。"
+      "summary": "CCTV录像显示，胡塞武装对利雅得国际机场的致命袭击。"
     },
     {
       "sourceId": "aljazeera",
@@ -4520,8 +4539,7 @@
       "excerpt": "Construction crews were seen trying to block waves entering homes along California's coast",
       "publishedAt": "2026-10-11T21:03:41.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "随着挖掘机试图保护加利福尼亚州财产，巨浪冲进住宅。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4682,24 +4700,6 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
       "excerpt": "Palestinians have reacted to President Mahmoud Abbas’ decision to postpone the Palestinian legislative elections.",
       "publishedAt": "2026-10-11T17:09:19.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
-      "url": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
-      "excerpt": "Police detain tour bus driver after highway collision in western Turkiye leaves 11 dead and 27 injured.",
-      "publishedAt": "2026-10-11T17:06:09.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Football fans speak about City’s charges as they face Liverpool",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
-      "excerpt": "Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield.",
-      "publishedAt": "2026-10-11T16:18:45.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
